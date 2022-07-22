@@ -1,5 +1,5 @@
 # CanvasApp1
-The attatched codes are the files needed in order to view the Canvas App on Power Apps
+The attatched files is the code needed in order to view the Canvas App on Power Apps
 
 1.Open Power App and go to import files
 
